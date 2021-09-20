@@ -1,5 +1,5 @@
 # Assignment1
-tutees translation
+tutnese translation
 
 1. Sophie Pelton -- 2370862 -- spelton@chapman.edu -- CPSC350-01 -- Assignment 1
 2. Model.h -- Model.cpp -- Translator.h -- Translator.cpp -- FileProcessor.h -- FileProcessor.cpp -- main.cpp -- Makefile
